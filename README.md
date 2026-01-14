@@ -45,11 +45,11 @@ Buka browser, lalu pergi ke localhost/phpmyadmin.
 
 Buat database baru dengan nama vape_storeV1.
 
-Import file SQL yang ada di folder repository ini (biasanya nama filenya vape_store.sql atau sejenisnya) ke dalam database tersebut.
+Import file SQL yang ada di folder repository ini ke dalam database.
 
 2. Setup Program
 
-Download atau Clone repository ini ke folder htdocs kamu (biasanya di C:\xampp\htdocs\vape_store_proyek).
+Download atau Clone repository ini ke folder htdocs kamu (biasanya di C:\xampp\htdocs\Vape_Store-UAS).
 
 Pastikan konfigurasi database di file koneksi (misal: koneksi.php atau config.php) sudah sesuai:
 
@@ -59,7 +59,7 @@ User: root
 
 Password: `` (kosongkan jika default XAMPP)
 
-Database: vape_storeV1
+Database: Vape_Store-UAS
 
 💻 Cara Menjalankan
 
@@ -67,8 +67,8 @@ Pastikan Apache dan MySQL di XAMPP masih menyala.
 
 Buka browser kesayangan kamu.
 
-Ketikkan alamat: localhost/vape_store_proyek/index.php (sesuaikan dengan nama folder kamu).
+Ketikkan alamat: localhost/Vape_Store-UAS/index.php
 
 Selesai! Kamu sudah bisa coba-coba fitur kasir dan manajemen barangnya.
 
-Dibuat untuk keperluan akademik di Universitas Duta Bangsa Surakarta - 2025. Selamat mencoba! Kalau ada yang bingung, jangan ragu buat tanya ya. 🙌
+Dibuat untuk keperluan akademik di Universitas Duta Bangsa Surakarta - 2025. Selamat mencoba! Kalau ada yang bingung, jangan ragu buat tanya ya. 🙌 
